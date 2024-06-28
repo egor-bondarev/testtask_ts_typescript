@@ -1,0 +1,13 @@
+node_modules/
+/test-results/
+/tests-examples/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/src/tests/*.png
+/src/tests/*.js
+/src/pages/*.js
+/src/pages/clickMePage.js
+/src/pages/pageFragments/*.js
+/src/testHelpers/*.js
+.DS_Store
